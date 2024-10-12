@@ -1,0 +1,17 @@
+{
+    "name": "project/cms",
+    "description": "Dynamic Content Management System",
+    "autoload": {
+        "psr-4": {
+            "Project\\Cms\\": "src/",
+            "Config\\":"config/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Harish",
+            "email": "harish.k@scalgo.net"
+        }
+    ],
+    "require": {}
+}
